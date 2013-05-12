@@ -1,0 +1,4 @@
+#!ruby -Ku
+
+puts 'Hello'
+
